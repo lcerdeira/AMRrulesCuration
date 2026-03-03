@@ -37,8 +37,8 @@ We are keen to partner with other allied organisations and initiatives, please [
 
 * AMRrules Spec - v0.6 [[google sheet]](https://docs.google.com/spreadsheets/d/1t6Lr_p-WAOY0yAXWKzoKk4yb56D2JdSqwImg4RZBvFA/edit?usp=sharing)
 * AMRrules Technical Guidance - v1.6 [[PDF]](https://github.com/AMRverse/AMRrulesCuration/blob/main/ESGEM-AMR%20Technical%20Guidance.pdf)
-* AMRgen R package for analysing matched genotype/phenotype data [[AMRgen repo]](https://github.com/interpretAMR/AMRgen)
-* Code and tools for accessing public AMRfinderplus + AST data [[datacuration repo]](https://github.com/AMRverse/datacuration)
+* AMRgen R package for analysing matched genotype/phenotype data [[AMRgen repo]](https://github.com/AMRverse/AMRgen)
+* Code and tools for accessing public AMRfinderplus + AST data [[datacuration repo]](https://github.com/interpretAMR/datacuration)
 * CARD/Antimicrobial Resistance Ontology (ARO): [[browser]](https://card.mcmaster.ca/)
 * Variant specification: [HGVS](https://hgvs-nomenclature.org/stable/)
 * AMR rules syntax: [[this repo]](https://github.com/AMRverse/AMRrulesCuration/blob/main/syntax.md)
@@ -50,8 +50,8 @@ We are keen to partner with other allied organisations and initiatives, please [
 * NCBI AST data: [[browser]](https://www.ncbi.nlm.nih.gov/pathogens/ast/)
 * NCBI AST data submission: [[info]](https://www.ncbi.nlm.nih.gov/pathogens/submit-data/) [[submission format]](https://www.ncbi.nlm.nih.gov/biosample/docs/antibiogram/)
 * NCBI Taxonomy: [[browser]](https://www.ncbi.nlm.nih.gov/Taxonomy/taxonomyhome.html/)
-* Introductory webinar slides: [[PDF]](https://github.com/AMRverse/AMRrulesCuration/blob/main/slides/ESGEM-AMR%20Webinar.pdf)
-* Kickoff meeting slides: [[PDF]](https://github.com/AMRverse/AMRrulesCuration/blob/main/slides/ESGEM-AMR%20Kickoff%20slides.pdf)
+* Introductory webinar slides: [[PDF]](https://github.com/AMRverse/ESGEM-AMR/blob/main/slides/ESGEM-AMR%20Webinar.pdf)
+* Kickoff meeting slides: [[PDF]](https://github.com/AMRverse/ESGEM-AMR/blob/main/slides/ESGEM-AMR%20Kickoff%20slides.pdf)
 
 ### Automatic validation of rules
 
